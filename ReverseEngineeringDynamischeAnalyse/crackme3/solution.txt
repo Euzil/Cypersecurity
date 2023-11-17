@@ -1,0 +1,5 @@
+Eingabe: Zahl x im Dezimalsystem
+Algorithmus: Berechne Hamminggewicht von x und vergleiche mit vorgegebenem Wert 17
+Mögliche Lösung: 131071
+
+Buffer Overflow: Nicht möglich, da keine ungefilterten Nutzereingaben geschrieben werden (scanf prüft das Eingabeformat)

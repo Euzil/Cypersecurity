@@ -1,0 +1,5 @@
+Eingabe: String
+Algorithmus: String muss mindestens 5 Zeichen lang und ein Palindrom sein
+Mögliche Lösung: abcba
+
+Buffer Overflow: Möglich, da gets() verwendet und keine Sicherheitsmaßnahmen

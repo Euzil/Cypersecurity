@@ -1,0 +1,15 @@
+.bash_history
+bild1.jpg
+bild2.jpg
+bild3.bmp
+bild4.png
+datei drucken anleitung.pdf
+dokument1.doc
+geheim.txt
+ihre_rechnung.pdf.exe
+noch_geheimer.txt
+song1.mp3
+song2.wav
+song3.mp3
+tabelle.xlsx
+ticket.pdf

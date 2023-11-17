@@ -1,0 +1,2 @@
+- "jl" entspricht "jump if less"
+- "jae" entspricht "jump if above or equal"

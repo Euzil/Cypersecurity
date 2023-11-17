@@ -1,0 +1,1 @@
+- "shr rax, 1" schiebt den Inhalt von rax um ein Bit nach rechts (logischer Rechtsshift)

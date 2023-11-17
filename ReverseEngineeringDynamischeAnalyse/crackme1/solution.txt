@@ -1,0 +1,5 @@
+Eingabe: Drei Zahlen x, y, z im Dezimalsystem
+Algorithmus: Berechne Summe der Zahlen und vergleiche mit 27
+Mögliche Lösung: 8 9 10
+
+Buffer Overflow: Möglich, da gets() verwendet, Stack-Canary nicht zufällig und damit unwirksam
